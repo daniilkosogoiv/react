@@ -1,0 +1,9 @@
+.links{
+  border: 1px solid grey;
+  padding: 5px;
+  font-size: 15px;
+}
+
+.chats{
+  display: flex;
+}
