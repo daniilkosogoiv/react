@@ -1,0 +1,10 @@
+.chat{
+    min-height: 80vh;
+    width: 79%;
+    position: absolute;
+    right: 0;
+    top: 33px;
+    border-left: solid 1px grey;
+};
+
+
