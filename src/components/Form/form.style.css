@@ -1,0 +1,23 @@
+.textForm{
+    border: solid 1px #E1E1E1 ;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    padding: 7px;
+    background-color: #E1E1E1;
+}
+.submitForm{
+    display:inline-flex;
+    border: solid 1px lightpink;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    padding: 7px;
+    background-color: lightpink;
+    color: white;
+    text-align: center;
+    align-items: center;
+    transition: all 0.5s;
+}
+.submitForm:hover {
+    background-color: white;
+    color: lightpink;
+}
