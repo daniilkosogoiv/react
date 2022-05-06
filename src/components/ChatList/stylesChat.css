@@ -1,0 +1,18 @@
+.chat-list{
+    height: 80vh;
+    width: 21%;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+    border-right: 1px solid grey;
+};
+
+.chat-item{
+    border-bottom: 1px solid grey;
+    position: relative;
+    padding: 15px 0;
+};
+
+.chat-link{
+    text-decoration: none;
+}
